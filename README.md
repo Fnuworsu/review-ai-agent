@@ -1,4 +1,4 @@
-Practice building a local ai agent that reviews the type of backend framework to use for a specific project
+Practice building a local ai agent(with langchain and chroma vector db) that reviews the type of backend framework to use for a specific project
 
 ## Components Used
 
