@@ -1,0 +1,11 @@
+Framework,Language,Key Features,Pros,Cons,Ideal Use Cases,Rating,Date Rated
+Django,Python,"Full‑stack framework; built‑in admin panel; ORM; security features","Rapid development; robust community; secure by default","Monolithic structure; steep learning curve","Content management systems; data‑driven apps; rapid prototyping",4.5,2025‑05‑07
+Flask,Python,"Lightweight; microframework; extensible","Simple to learn; flexible; minimalistic","Requires manual setup for larger applications; limited built‑in tools","Microservices; small‑to‑medium APIs; quick prototypes",4.0,2025‑05‑07
+Express.js,JavaScript,"Minimalist; unopinionated; middleware support","Fast; huge NPM ecosystem; full JavaScript stack","Callback hell; less structure for large apps","RESTful APIs; SPAs; realtime services",4.3,2025‑05‑07
+Laravel,PHP,"MVC architecture; elegant syntax; built‑in auth","Comprehensive docs; active community; rapid dev","Performance overhead; frequent update maintenance","E‑commerce; SaaS; content‑heavy sites",4.2,2025‑05‑07
+Ruby on Rails,Ruby,"Convention‑over‑configuration; scaffolding; ORM","Developer‑friendly; rapid dev; strong community","Runtime speed; memory consumption","Start‑ups; MVPs; DB‑backed apps",4.0,2025‑05‑07
+Spring Boot,Java,"Microservices support; embedded servers; extensive libs","Enterprise‑grade; scalable; robust security","Complex config; steep learning curve","Large‑scale enterprise apps; finance; complex APIs",4.7,2025‑05‑07
+ASP.NET Core,C#,"Cross‑platform; high performance; built‑in DI","Tight MS integration; strong security","Smaller OSS community outside MS ecosystem","Enterprise apps; cloud services; Windows‑centric solutions",4.3,2025‑05‑07
+FastAPI,Python,"Async support; automatic docs; type hints","High performance; easy; modern features","Less mature than Django; smaller community","ML APIs; data‑science services; high‑perf APIs",4.2,2025‑05‑07
+Phoenix,Elixir,"Realtime support; functional FP; scalability","Handles high concurrency; fault‑tolerant; efficient","Smaller talent pool; Elixir learning curve","Chat apps; realtime dashboards; scalable systems",4.0,2025‑05‑07
+NestJS,TypeScript,"Modular architecture; built‑in DI; TS support","Structured codebase; scalable; active community","Overhead for simple apps; learning curve","Enterprise‑grade apps; scalable APIs; microservices",4.1,2025‑05‑07
