@@ -19,6 +19,7 @@ Make sure [Ollama](https://ollama.com/download) is installed and running.
 
 ```bash
 ollama pull llama3.2
+ollama serve
 ollama pull mxbai-embed-large
 ```
 Set up virtual environment, activate venv, install requirements
